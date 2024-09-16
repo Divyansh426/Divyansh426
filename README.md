@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyansh Mishra
 - 👀 I’m interested in web develpment and dsa 
-- 🌱 I’m currently learning C++ and web dev and dsa
+- 🌱 I’m currently learning java and web dev and dsa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through linkden and instagram
 - 😄 Pronouns: ...
